@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitwebman&label=Profile%20views&color=0e75b6&style=flat" alt="amitwebman" /> </p>
 
-<p align="left"> <a href="https://twitter.com/amitwebman" target="blank"><img src="https://img.shields.io/twitter/follow/amitwebman?logo=twitter&style=for-the-badge" alt="amitwebman" /></a> </p>
-
 🔭 I’m currently working on [30-Days-of-frontend-development](https://github.com/amitwebman)
 
 🌱 I’m currently learning **JavaScript & Php**
