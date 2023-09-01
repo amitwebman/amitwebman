@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/amitwebman" target="blank"><img src="https://img.shields.io/twitter/follow/amitwebman?logo=twitter&style=for-the-badge" alt="amitwebman" /></a> </p>
 
-- 🔭 I’m currently working on [30-Days-of-frontend-development](https://github.com/amitwebman)
+🔭 I’m currently working on [30-Days-of-frontend-development](https://github.com/amitwebman)
 
-- 🌱 I’m currently learning **JavaScript & Php**
+🌱 I’m currently learning **JavaScript & Php**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amitwebman](https://github.com/amitwebman)
+👨‍💻 All of my projects are available at [https://github.com/amitwebman](https://github.com/amitwebman)
 
-- 💬 Ask me about **Frontend Development**
+💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **webmanmait@gmail.com**
+📫 How to reach me **webmanmait@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
